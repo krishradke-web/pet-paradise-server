@@ -7,7 +7,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // ✅ YAHAN APNA GOOGLE SCRIPT URL HAI
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwH15UzvVvQcivT3Bd4rszCkdKNfyyp0s18Exr-iBrRfF57pB1VJFXES15woieB997fQg/exec";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyV19YuaTOUwhiBTyMiRYLFkBScOgmxVfh7ecoBTZfZe_LUFhdFt7sOqkAuCGHH5sXE/exec";
 
 // Middleware
 app.use(cors());
